@@ -1,4 +1,4 @@
-package old;
+package UNUSED_old;
 
 public class Board {
     private static final int DEPTH = 6;
